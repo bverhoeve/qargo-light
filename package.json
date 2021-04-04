@@ -3,6 +3,10 @@
     "displayName": "qargo-light",
     "description": "Light theme based on Qargo colours",
     "version": "0.0.1",
+    "publisher": "bverhoeve",
+    "repository": {
+        "url": "https://github.com/bverhoeve/qargo-light"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
