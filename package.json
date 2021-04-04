@@ -1,0 +1,21 @@
+{
+    "name": "qargo-light",
+    "displayName": "qargo-light",
+    "description": "Light theme based on Qargo colours",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Qargo Light",
+                "uiTheme": "vs",
+                "path": "./themes/Qargo Light-color-theme.json"
+            }
+        ]
+    }
+}
