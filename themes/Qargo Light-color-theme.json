@@ -3,7 +3,9 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#f6f6f6",
-		"editor.foreground": "#00343c"
+		"editor.foreground": "#00343c",
+		"activityBar.background": "#00343c",
+		"activityBarBadge.background": "#00e36a",
 	},
 	"tokenColors": [
 		{
