@@ -1,8 +1,8 @@
 {
     "name": "qargo-light",
-    "displayName": "qargo-light",
+    "displayName": "Qargo Light Theme",
     "description": "Light theme based on Qargo colours",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "bverhoeve",
     "repository": {
         "url": "https://github.com/bverhoeve/qargo-light"

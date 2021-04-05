@@ -6,6 +6,7 @@
 		"editor.foreground": "#00343c",
 		"activityBar.background": "#00343c",
 		"activityBarBadge.background": "#00e36a",
+		"statusBar.background": "#00c266"
 	},
 	"tokenColors": [
 		{
@@ -34,7 +35,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#00c266"
+				"foreground": "#2bd5ca"
 			}
 		},
 		{
@@ -58,7 +59,8 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#00525a",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -89,7 +91,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7a5ce8"
+				"foreground": "#00343c"
 			}
 		},
 		{
@@ -99,7 +101,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#00e36a"
+				"foreground": "#00ae54"
 			}
 		},
 		{
@@ -245,7 +247,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#df7243"
+				"foreground": "#00c266"
 			}
 		},
 		{
